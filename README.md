@@ -1,2 +1,3 @@
 # powershell_scripts
 powershell scripts
+PowerShell is a powerful task automation and configuration management framework developed by Microsoft. It consists of a command-line shell and a scripting language designed for system administration, enabling users to automate complex tasks, manage system configurations, and interact with various systems and applications. PowerShell is widely used in IT environments for automating repetitive tasks, managing Windows systems, and even handling cloud services. Its ability to integrate with .NET and handle structured data like JSON, XML, and CSV makes it a versatile tool for both administrators and developers.
